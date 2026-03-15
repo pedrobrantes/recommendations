@@ -433,5 +433,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "CoMaps",
+    "description": "A collaborative mapping application based on OpenStreetMap.",
+    "url": "https://codeberg.org/comaps/comaps",
+    "categories": [
+      "Android",
+      "Apps",
+      "Maps"
+    ],
+    "tags": [
+      "android",
+      "maps",
+      "osm",
+      "collaborative",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

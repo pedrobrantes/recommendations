@@ -69,6 +69,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense) - An all-in-one offline GPS and navigation tool for outdoor activities.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![maps](https://img.shields.io/badge/maps-brown?style=for-the-badge) ![navigation](https://img.shields.io/badge/navigation-brown?style=for-the-badge) ![outdoor](https://img.shields.io/badge/outdoor-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [CoMaps](https://codeberg.org/comaps/comaps) - A collaborative mapping application based on OpenStreetMap.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![maps](https://img.shields.io/badge/maps-brown?style=for-the-badge) ![osm](https://img.shields.io/badge/osm-brown?style=for-the-badge) ![collaborative](https://img.shields.io/badge/collaborative-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Music Player
 

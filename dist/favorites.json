@@ -727,5 +727,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Barcode Scanner",
+    "description": "A fast and reliable barcode scanner for Android.",
+    "url": "https://f-droid.org/packages/com.atharok.barcodescanner",
+    "categories": [
+      "Android",
+      "Apps",
+      "Utility"
+    ],
+    "tags": [
+      "android",
+      "barcode",
+      "scanner",
+      "utility",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

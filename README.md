@@ -28,6 +28,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Study](#study)
     - [Torrent](#torrent)
     - [Update Manager](#update-manager)
+    - [Utility](#utility)
     - [Video Editor](#video-editor)
     - [Video Player](#video-player)
     - [Xposed](#xposed)
@@ -166,6 +167,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Obtainium](https://github.com/ImranRQD/Obtainium) - Get Android App updates directly from GitHub, GitLab, and more.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![updates](https://img.shields.io/badge/updates-brown?style=for-the-badge) ![github](https://img.shields.io/badge/github-black?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Utility
+
+- [Barcode Scanner](https://f-droid.org/packages/com.atharok.barcodescanner) - A fast and reliable barcode scanner for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![barcode](https://img.shields.io/badge/barcode-brown?style=for-the-badge) ![scanner](https://img.shields.io/badge/scanner-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Video Editor
 

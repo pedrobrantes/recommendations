@@ -609,5 +609,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Sing-Box",
+    "description": "A universal proxy platform for network obfuscation and bypassing censorship.",
+    "url": "https://github.com/SagerNet/sing-box",
+    "categories": [
+      "Android",
+      "Apps",
+      "Network"
+    ],
+    "tags": [
+      "android",
+      "proxy",
+      "network",
+      "security",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

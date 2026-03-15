@@ -31,6 +31,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Utility](#utility)
     - [Video Editor](#video-editor)
     - [Video Player](#video-player)
+    - [Weather](#weather)
     - [Xposed](#xposed)
 - [Desktop](#desktop)
   - [Apps](#apps)
@@ -192,6 +193,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video](https://img.shields.io/badge/video-brown?style=for-the-badge) ![player](https://img.shields.io/badge/player-brown?style=for-the-badge) ![mpv](https://img.shields.io/badge/mpv-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [NextPlayer](https://github.com/anilbeesetti/nextplayer) - A modern and privacy-focused video player for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video](https://img.shields.io/badge/video-brown?style=for-the-badge) ![player](https://img.shields.io/badge/player-brown?style=for-the-badge) ![privacy](https://img.shields.io/badge/privacy-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Weather
+
+- [WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A simple and beautiful weather app for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![weather](https://img.shields.io/badge/weather-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Xposed
 

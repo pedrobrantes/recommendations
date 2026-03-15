@@ -1,0 +1,19 @@
+[
+  {
+    "title": "myfav",
+    "description": "A modular Rust CLI to manage recommendations",
+    "url": "https://github.com/pedrobrantes/myfav",
+    "categories": [
+      "Dev",
+      "Tools"
+    ],
+    "tags": [
+      "rust",
+      "cli",
+      "automation"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
+  }
+]

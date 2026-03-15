@@ -202,5 +202,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "LibreTorrent",
+    "description": "A lightweight torrent client for Android.",
+    "url": "https://f-droid.org/packages/org.proninyaroslav.libretorrent",
+    "categories": [
+      "Android",
+      "Apps",
+      "Torrent"
+    ],
+    "tags": [
+      "android",
+      "torrent",
+      "download",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

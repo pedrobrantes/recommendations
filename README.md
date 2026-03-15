@@ -13,6 +13,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Social](#social)
     - [Store](#store)
     - [Streaming](#streaming)
+    - [Torrent](#torrent)
     - [Update Manager](#update-manager)
     - [Video Editor](#video-editor)
 - [Desktop](#desktop)
@@ -55,6 +56,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![youtube](https://img.shields.io/badge/youtube-brown?style=for-the-badge) ![streaming](https://img.shields.io/badge/streaming-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Xtra](https://github.com/crackededed/Xtra) - An alternative Twitch frontend for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![twitch](https://img.shields.io/badge/twitch-brown?style=for-the-badge) ![streaming](https://img.shields.io/badge/streaming-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Torrent
+
+- [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent) - A lightweight torrent client for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![torrent](https://img.shields.io/badge/torrent-brown?style=for-the-badge) ![download](https://img.shields.io/badge/download-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Update Manager
 

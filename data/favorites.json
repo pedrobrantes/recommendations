@@ -183,5 +183,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "OuterTune",
+    "description": "A material-designed music player for Android.",
+    "url": "https://github.com/DD3Boh/OuterTune",
+    "categories": [
+      "Android",
+      "Apps",
+      "Music Player"
+    ],
+    "tags": [
+      "android",
+      "music",
+      "player",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

@@ -108,5 +108,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "ImageToolbox",
+    "description": "A powerful image manipulation tool for Android.",
+    "url": "https://github.com/T8RIN/ImageToolbox",
+    "categories": [
+      "Android",
+      "Apps",
+      "Image Editor"
+    ],
+    "tags": [
+      "android",
+      "image-editor",
+      "utility",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

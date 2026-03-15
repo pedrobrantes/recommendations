@@ -8,6 +8,7 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Android](#android)
   - [Apps](#apps)
+    - [Image Editor](#image-editor)
     - [Streaming](#streaming)
     - [Update Manager](#update-manager)
     - [Video Editor](#video-editor)
@@ -22,6 +23,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 ## Android
 
 ### Apps
+
+#### Image Editor
+
+- [ImageToolbox](https://github.com/T8RIN/ImageToolbox) - A powerful image manipulation tool for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![image-editor](https://img.shields.io/badge/image--editor-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Streaming
 

@@ -9,6 +9,7 @@ This list is automatically managed and distributed using [myfav](https://github.
 - [Android](#android)
   - [Apps](#apps)
     - [Update Manager](#update-manager)
+    - [Video Editor](#video-editor)
 - [Dev](#dev)
   - [Tools](#tools)
 
@@ -22,6 +23,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Obtainium](https://github.com/ImranRQD/Obtainium) - Get Android App updates directly from GitHub, GitLab, and more.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![updates](https://img.shields.io/badge/updates-brown?style=for-the-badge) ![github](https://img.shields.io/badge/github-black?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Video Editor
+
+- [OpenVideoEditor](https://f-droid.org/packages/io.github.devhyper.openvideoeditor) - Simple and powerful video editor for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video-editor](https://img.shields.io/badge/video--editor-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 ## Dev
 

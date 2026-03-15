@@ -34,5 +34,23 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "OpenVideoEditor",
+    "description": "Simple and powerful video editor for Android.",
+    "url": "https://f-droid.org/packages/io.github.devhyper.openvideoeditor",
+    "categories": [
+      "Android",
+      "Apps",
+      "Video Editor"
+    ],
+    "tags": [
+      "android",
+      "video-editor",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

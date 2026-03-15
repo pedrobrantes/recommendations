@@ -11,6 +11,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [AI](#ai)
     - [Audio](#audio)
     - [Books](#books)
+    - [Email Client](#email-client)
     - [Finance](#finance)
     - [Image Editor](#image-editor)
     - [Maps](#maps)
@@ -55,6 +56,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![books](https://img.shields.io/badge/books-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Readest](https://github.com/readest/readest) - A beautiful book tracker for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![books](https://img.shields.io/badge/books-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge) ![material-design](https://img.shields.io/badge/material--design-brown?style=for-the-badge)
+
+#### Email Client
+
+- [K-9 Mail](https://f-droid.org/packages/rs.ltt.android) - A full-featured open-source email client for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![email](https://img.shields.io/badge/email-brown?style=for-the-badge) ![client](https://img.shields.io/badge/client-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Finance
 

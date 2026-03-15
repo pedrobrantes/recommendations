@@ -413,5 +413,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Trail Sense",
+    "description": "An all-in-one offline GPS and navigation tool for outdoor activities.",
+    "url": "https://github.com/kylecorry31/Trail-Sense",
+    "categories": [
+      "Android",
+      "Apps",
+      "Maps"
+    ],
+    "tags": [
+      "android",
+      "maps",
+      "navigation",
+      "outdoor",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

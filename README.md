@@ -13,6 +13,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Books](#books)
     - [Finance](#finance)
     - [Image Editor](#image-editor)
+    - [Maps](#maps)
     - [Music Player](#music-player)
     - [Podcasts](#podcasts)
     - [RSS](#rss)
@@ -63,6 +64,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox) - A powerful image manipulation tool for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![image-editor](https://img.shields.io/badge/image--editor-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Maps
+
+- [Trail Sense](https://github.com/kylecorry31/Trail-Sense) - An all-in-one offline GPS and navigation tool for outdoor activities.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![maps](https://img.shields.io/badge/maps-brown?style=for-the-badge) ![navigation](https://img.shields.io/badge/navigation-brown?style=for-the-badge) ![outdoor](https://img.shields.io/badge/outdoor-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Music Player
 

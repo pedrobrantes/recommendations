@@ -335,5 +335,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "NeverTooManyBooks",
+    "description": "Another book management app for Android.",
+    "url": "https://github.com/tfonteyn/NeverTooManyBooks",
+    "categories": [
+      "Android",
+      "Apps",
+      "Books"
+    ],
+    "tags": [
+      "android",
+      "books",
+      "tracking",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

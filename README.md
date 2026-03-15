@@ -34,4 +34,4 @@ This list is automatically managed and distributed using [myfav](https://github.
 <!-- END_FAVORITES -->
 
 ---
-Created with ❤️ by Pedro Brantes
+Created with ☕ by Pedro Brantes

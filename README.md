@@ -44,6 +44,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod) - A free and open-source podcast manager and player.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![podcast](https://img.shields.io/badge/podcast-brown?style=for-the-badge) ![audio](https://img.shields.io/badge/audio-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [PodAura](https://github.com/SkyD666/PodAura) - Modern podcast player built with Jetpack Compose.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![podcast](https://img.shields.io/badge/podcast-brown?style=for-the-badge) ![material-design](https://img.shields.io/badge/material--design-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### RSS
 

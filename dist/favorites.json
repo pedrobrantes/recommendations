@@ -259,5 +259,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "PodAura",
+    "description": "Modern podcast player built with Jetpack Compose.",
+    "url": "https://github.com/SkyD666/PodAura",
+    "categories": [
+      "Android",
+      "Apps",
+      "Podcasts"
+    ],
+    "tags": [
+      "android",
+      "podcast",
+      "material-design",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

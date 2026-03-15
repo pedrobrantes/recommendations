@@ -28,7 +28,7 @@ This list is automatically managed and distributed using [myfav](https://github.
 ### Tools
 
 - [myfav](https://github.com/pedrobrantes/myfav) - A modular Rust CLI to manage recommendations
-  ![rust](https://img.shields.io/badge/rust-brown?style=for-the-badge) ![cli](https://img.shields.io/badge/cli-brown?style=for-the-badge) ![automation](https://img.shields.io/badge/automation-brown?style=for-the-badge)
+  ![rust](https://img.shields.io/badge/rust-orange?style=for-the-badge) ![cli](https://img.shields.io/badge/cli-brown?style=for-the-badge) ![automation](https://img.shields.io/badge/automation-brown?style=for-the-badge)
 
 
 <!-- END_FAVORITES -->

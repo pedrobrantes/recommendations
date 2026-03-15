@@ -1,22 +1,5 @@
 [
   {
-    "title": "myfav",
-    "description": "A modular Rust CLI to manage recommendations",
-    "url": "https://github.com/pedrobrantes/myfav",
-    "categories": [
-      "Dev",
-      "Tools"
-    ],
-    "tags": [
-      "rust",
-      "cli",
-      "automation"
-    ],
-    "deprecated": false,
-    "alternative": null,
-    "icon": null
-  },
-  {
     "title": "Obtainium",
     "description": "Get Android App updates directly from GitHub, GitLab, and more.",
     "url": "https://github.com/ImranRQD/Obtainium",
@@ -30,6 +13,23 @@
       "updates",
       "github:black",
       "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
+  },
+  {
+    "title": "myfav",
+    "description": "A modular Rust CLI to manage recommendations",
+    "url": "https://github.com/pedrobrantes/myfav",
+    "categories": [
+      "Dev",
+      "Tools"
+    ],
+    "tags": [
+      "rust:orange",
+      "cli",
+      "automation"
     ],
     "deprecated": false,
     "alternative": null,

@@ -510,5 +510,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Ciyue",
+    "description": "A modern Chinese dictionary for Android.",
+    "url": "https://github.com/mumu-lhl/Ciyue",
+    "categories": [
+      "Android",
+      "Apps",
+      "Dictionary"
+    ],
+    "tags": [
+      "android",
+      "dictionary",
+      "chinese",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

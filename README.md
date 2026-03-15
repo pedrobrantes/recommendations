@@ -11,6 +11,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [AI](#ai)
     - [Audio](#audio)
     - [Books](#books)
+    - [Dictionary](#dictionary)
     - [Email Client](#email-client)
     - [Finance](#finance)
     - [Image Editor](#image-editor)
@@ -56,6 +57,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![books](https://img.shields.io/badge/books-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Readest](https://github.com/readest/readest) - A beautiful book tracker for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![books](https://img.shields.io/badge/books-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge) ![material-design](https://img.shields.io/badge/material--design-brown?style=for-the-badge)
+
+#### Dictionary
+
+- [Ciyue](https://github.com/mumu-lhl/Ciyue) - A modern Chinese dictionary for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![dictionary](https://img.shields.io/badge/dictionary-brown?style=for-the-badge) ![chinese](https://img.shields.io/badge/chinese-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Email Client
 

@@ -193,6 +193,8 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![share-sheet](https://img.shields.io/badge/share--sheet-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [URLCheck](https://github.com/TrianguloY/URLCheck) - Check URLs for redirects and other information.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![url](https://img.shields.io/badge/url-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [AppManager](https://github.com/MuntashirAkon/AppManager) - A powerful open-source app manager for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![app-manager](https://img.shields.io/badge/app--manager-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Video Editor
 

@@ -879,5 +879,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "AppManager",
+    "description": "A powerful open-source app manager for Android.",
+    "url": "https://github.com/MuntashirAkon/AppManager",
+    "categories": [
+      "Android",
+      "Apps",
+      "Utility"
+    ],
+    "tags": [
+      "android",
+      "app-manager",
+      "utility",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

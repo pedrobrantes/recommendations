@@ -47,6 +47,8 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![ai](https://img.shields.io/badge/ai-brown?style=for-the-badge) ![github](https://img.shields.io/badge/github-brown?style=for-the-badge) ![productivity](https://img.shields.io/badge/productivity-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [SDAI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) - Stable Diffusion UI for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![ai](https://img.shields.io/badge/ai-brown?style=for-the-badge) ![stable-diffusion](https://img.shields.io/badge/stable--diffusion-brown?style=for-the-badge) ![image-generation](https://img.shields.io/badge/image--generation-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Edge Gallery](https://github.com/google-ai-edge/gallery) - An AI-powered gallery app from Google.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![ai](https://img.shields.io/badge/ai-brown?style=for-the-badge) ![gallery](https://img.shields.io/badge/gallery-brown?style=for-the-badge) ![image-processing](https://img.shields.io/badge/image--processing-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Audio
 

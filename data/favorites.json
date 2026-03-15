@@ -569,5 +569,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Edge Gallery",
+    "description": "An AI-powered gallery app from Google.",
+    "url": "https://github.com/google-ai-edge/gallery",
+    "categories": [
+      "Android",
+      "Apps",
+      "AI"
+    ],
+    "tags": [
+      "android",
+      "ai",
+      "gallery",
+      "image-processing",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

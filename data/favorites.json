@@ -687,5 +687,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "NextPlayer",
+    "description": "A modern and privacy-focused video player for Android.",
+    "url": "https://github.com/anilbeesetti/nextplayer",
+    "categories": [
+      "Android",
+      "Apps",
+      "Video Player"
+    ],
+    "tags": [
+      "android",
+      "video",
+      "player",
+      "privacy",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

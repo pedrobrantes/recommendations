@@ -12,6 +12,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Audio](#audio)
     - [Books](#books)
     - [Dictionary](#dictionary)
+    - [Document](#document)
     - [Email Client](#email-client)
     - [File Share](#file-share)
     - [Finance](#finance)
@@ -71,6 +72,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Ciyue](https://github.com/mumu-lhl/Ciyue) - A modern Chinese dictionary for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![dictionary](https://img.shields.io/badge/dictionary-brown?style=for-the-badge) ![chinese](https://img.shields.io/badge/chinese-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Document
+
+- [Redomi](https://github.com/acszo/Redomi) - A simple document scanner and PDF reader for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![document](https://img.shields.io/badge/document-brown?style=for-the-badge) ![scanner](https://img.shields.io/badge/scanner-brown?style=for-the-badge) ![pdf](https://img.shields.io/badge/pdf-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Email Client
 

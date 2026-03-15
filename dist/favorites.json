@@ -707,5 +707,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Redomi",
+    "description": "A simple document scanner and PDF reader for Android.",
+    "url": "https://github.com/acszo/Redomi",
+    "categories": [
+      "Android",
+      "Apps",
+      "Document"
+    ],
+    "tags": [
+      "android",
+      "document",
+      "scanner",
+      "pdf",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

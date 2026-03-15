@@ -278,5 +278,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "My Expenses",
+    "description": "An open-source, powerful, and intuitive expense manager for Android.",
+    "url": "https://f-droid.org/packages/org.totschnig.myexpenses",
+    "categories": [
+      "Android",
+      "Apps",
+      "Finance"
+    ],
+    "tags": [
+      "android",
+      "finance",
+      "expenses",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

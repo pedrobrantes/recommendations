@@ -8,6 +8,7 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Android](#android)
   - [Apps](#apps)
+    - [Finance](#finance)
     - [Image Editor](#image-editor)
     - [Music Player](#music-player)
     - [Podcasts](#podcasts)
@@ -29,6 +30,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 ## Android
 
 ### Apps
+
+#### Finance
+
+- [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses) - An open-source, powerful, and intuitive expense manager for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![finance](https://img.shields.io/badge/finance-brown?style=for-the-badge) ![expenses](https://img.shields.io/badge/expenses-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Image Editor
 

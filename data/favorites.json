@@ -549,5 +549,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "SDAI",
+    "description": "Stable Diffusion UI for Android.",
+    "url": "https://github.com/ShiftHackZ/Stable-Diffusion-Android",
+    "categories": [
+      "Android",
+      "Apps",
+      "AI"
+    ],
+    "tags": [
+      "android",
+      "ai",
+      "stable-diffusion",
+      "image-generation",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

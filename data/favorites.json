@@ -316,5 +316,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Book Story",
+    "description": "A book tracking app for Android.",
+    "url": "https://github.com/Acclorite/book-story",
+    "categories": [
+      "Android",
+      "Apps",
+      "Books"
+    ],
+    "tags": [
+      "android",
+      "books",
+      "tracking",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

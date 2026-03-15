@@ -127,5 +127,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Cherrygram",
+    "description": "An alternative, unofficial Telegram client for Android.",
+    "url": "https://github.com/arsLan4k1390/Cherrygram",
+    "categories": [
+      "Android",
+      "Apps",
+      "Social"
+    ],
+    "tags": [
+      "android",
+      "telegram",
+      "social",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

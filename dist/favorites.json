@@ -472,5 +472,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Atomic Periodic Table",
+    "description": "A modern periodic table of elements for Android.",
+    "url": "https://github.com/JLindemann42/Atomic-Periodic-Table.Android",
+    "categories": [
+      "Android",
+      "Apps",
+      "Study"
+    ],
+    "tags": [
+      "android",
+      "study",
+      "science",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

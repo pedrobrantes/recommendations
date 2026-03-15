@@ -113,6 +113,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android) - Anki flashcards for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![study](https://img.shields.io/badge/study-brown?style=for-the-badge) ![flashcards](https://img.shields.io/badge/flashcards-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Atomic Periodic Table](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) - A modern periodic table of elements for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![study](https://img.shields.io/badge/study-brown?style=for-the-badge) ![science](https://img.shields.io/badge/science-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Torrent
 

@@ -240,5 +240,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "AntennaPod",
+    "description": "A free and open-source podcast manager and player.",
+    "url": "https://f-droid.org/packages/de.danoeh.antennapod",
+    "categories": [
+      "Android",
+      "Apps",
+      "Podcasts"
+    ],
+    "tags": [
+      "android",
+      "podcast",
+      "audio",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

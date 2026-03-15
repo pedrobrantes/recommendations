@@ -10,6 +10,7 @@ This list is automatically managed and distributed using [myfav](https://github.
   - [Apps](#apps)
     - [Image Editor](#image-editor)
     - [Music Player](#music-player)
+    - [Podcasts](#podcasts)
     - [RSS](#rss)
     - [Social](#social)
     - [Store](#store)
@@ -38,6 +39,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [OuterTune](https://github.com/DD3Boh/OuterTune) - A material-designed music player for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![music](https://img.shields.io/badge/music-brown?style=for-the-badge) ![player](https://img.shields.io/badge/player-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Podcasts
+
+- [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod) - A free and open-source podcast manager and player.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![podcast](https://img.shields.io/badge/podcast-brown?style=for-the-badge) ![audio](https://img.shields.io/badge/audio-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### RSS
 

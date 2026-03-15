@@ -297,5 +297,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "SummaryExpressive",
+    "description": "An Android app for summarizing texts using AI.",
+    "url": "https://github.com/kid1412621/SummaryExpressive",
+    "categories": [
+      "Android",
+      "Apps",
+      "AI"
+    ],
+    "tags": [
+      "android",
+      "ai",
+      "summary",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

@@ -861,5 +861,23 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Kori",
+    "description": "A simple and modern text editor for Android.",
+    "url": "https://github.com/YangDai2003/Kori",
+    "categories": [
+      "Android",
+      "Apps",
+      "Text Editor"
+    ],
+    "tags": [
+      "android",
+      "text-editor",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

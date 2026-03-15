@@ -27,6 +27,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Store](#store)
     - [Streaming](#streaming)
     - [Study](#study)
+    - [Text Editor](#text-editor)
     - [Torrent](#torrent)
     - [Update Manager](#update-manager)
     - [Utility](#utility)
@@ -166,6 +167,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![study](https://img.shields.io/badge/study-brown?style=for-the-badge) ![flashcards](https://img.shields.io/badge/flashcards-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Atomic Periodic Table](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) - A modern periodic table of elements for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![study](https://img.shields.io/badge/study-brown?style=for-the-badge) ![science](https://img.shields.io/badge/science-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Text Editor
+
+- [Kori](https://github.com/YangDai2003/Kori) - A simple and modern text editor for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![text-editor](https://img.shields.io/badge/text--editor-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Torrent
 

@@ -354,5 +354,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Readest",
+    "description": "A beautiful book tracker for Android.",
+    "url": "https://github.com/readest/readest",
+    "categories": [
+      "Android",
+      "Apps",
+      "Books"
+    ],
+    "tags": [
+      "android",
+      "books",
+      "tracking",
+      "open-source",
+      "material-design"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

@@ -34,6 +34,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - An alternative, unofficial Telegram client for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![telegram](https://img.shields.io/badge/telegram-brown?style=for-the-badge) ![social](https://img.shields.io/badge/social-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Mastodon Android](https://github.com/mastodon/mastodon-android) - The official Mastodon Android client.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![mastodon](https://img.shields.io/badge/mastodon-brown?style=for-the-badge) ![social](https://img.shields.io/badge/social-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Streaming
 

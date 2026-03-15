@@ -146,5 +146,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Mastodon Android",
+    "description": "The official Mastodon Android client.",
+    "url": "https://github.com/mastodon/mastodon-android",
+    "categories": [
+      "Android",
+      "Apps",
+      "Social"
+    ],
+    "tags": [
+      "android",
+      "mastodon",
+      "social",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

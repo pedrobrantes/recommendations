@@ -10,6 +10,7 @@ This list is automatically managed and distributed using [myfav](https://github.
   - [Apps](#apps)
     - [Image Editor](#image-editor)
     - [Music Player](#music-player)
+    - [RSS](#rss)
     - [Social](#social)
     - [Store](#store)
     - [Streaming](#streaming)
@@ -37,6 +38,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [OuterTune](https://github.com/DD3Boh/OuterTune) - A material-designed music player for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![music](https://img.shields.io/badge/music-brown?style=for-the-badge) ![player](https://img.shields.io/badge/player-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### RSS
+
+- [ReadYou](https://github.com/ashinch/readyou) - A simple and elegant RSS reader for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![rss](https://img.shields.io/badge/rss-brown?style=for-the-badge) ![reader](https://img.shields.io/badge/reader-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Social
 

@@ -221,5 +221,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "ReadYou",
+    "description": "A simple and elegant RSS reader for Android.",
+    "url": "https://github.com/ashinch/readyou",
+    "categories": [
+      "Android",
+      "Apps",
+      "RSS"
+    ],
+    "tags": [
+      "android",
+      "rss",
+      "reader",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

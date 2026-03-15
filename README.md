@@ -28,6 +28,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Torrent](#torrent)
     - [Update Manager](#update-manager)
     - [Video Editor](#video-editor)
+    - [Video Player](#video-player)
     - [Xposed](#xposed)
 - [Desktop](#desktop)
   - [Apps](#apps)
@@ -164,6 +165,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [OpenVideoEditor](https://f-droid.org/packages/io.github.devhyper.openvideoeditor) - Simple and powerful video editor for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video-editor](https://img.shields.io/badge/video--editor-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Video Player
+
+- [mpvEx](https://github.com/marlboro-advance/mpvEx) - An mpv-based video player for Android with an intuitive interface.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video](https://img.shields.io/badge/video-brown?style=for-the-badge) ![player](https://img.shields.io/badge/player-brown?style=for-the-badge) ![mpv](https://img.shields.io/badge/mpv-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Xposed
 

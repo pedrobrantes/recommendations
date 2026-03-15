@@ -667,5 +667,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "mpvEx",
+    "description": "An mpv-based video player for Android with an intuitive interface.",
+    "url": "https://github.com/marlboro-advance/mpvEx",
+    "categories": [
+      "Android",
+      "Apps",
+      "Video Player"
+    ],
+    "tags": [
+      "android",
+      "video",
+      "player",
+      "mpv",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

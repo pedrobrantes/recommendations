@@ -20,8 +20,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 #### Update Manager
 
-- [Obtainium](https://github.com/ImranRQD/Obtainium) - Get Android App updates directly from GitHub, GitLab, and more.
-  ![android](https://img.shields.io/badge/android-blue?style=flat-square) ![updates](https://img.shields.io/badge/updates-blue?style=flat-square) ![github](https://img.shields.io/badge/github-blue?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-blue?style=flat-square)
+- [Obtainium](https://github.com/ImranRQD/Obtainium) - Get app updates from sources
+  ![android](https://img.shields.io/badge/android-blue?style=flat-square) ![updates](https://img.shields.io/badge/updates-blue?style=flat-square) ![github:black](https://img.shields.io/badge/github:black-blue?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-blue?style=flat-square)
 
 ## Dev
 

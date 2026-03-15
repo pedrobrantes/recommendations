@@ -18,7 +18,7 @@
   },
   {
     "title": "Obtainium",
-    "description": "Get Android App updates directly from GitHub, GitLab, and more.",
+    "description": "Get app updates from sources",
     "url": "https://github.com/ImranRQD/Obtainium",
     "categories": [
       "Android",
@@ -28,7 +28,7 @@
     "tags": [
       "android",
       "updates",
-      "github",
+      "github:black",
       "open-source"
     ],
     "deprecated": false,

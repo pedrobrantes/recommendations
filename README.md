@@ -43,6 +43,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [SummaryExpressive](https://github.com/kid1412621/SummaryExpressive) - An Android app for summarizing texts using AI.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![ai](https://img.shields.io/badge/ai-brown?style=for-the-badge) ![summary](https://img.shields.io/badge/summary-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Rikkahub](https://github.com/rikkahub/rikkahub) - An AI-powered app that helps you manage your GitHub projects.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![ai](https://img.shields.io/badge/ai-brown?style=for-the-badge) ![github](https://img.shields.io/badge/github-brown?style=for-the-badge) ![productivity](https://img.shields.io/badge/productivity-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Audio
 

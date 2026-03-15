@@ -529,5 +529,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Rikkahub",
+    "description": "An AI-powered app that helps you manage your GitHub projects.",
+    "url": "https://github.com/rikkahub/rikkahub",
+    "categories": [
+      "Android",
+      "Apps",
+      "AI"
+    ],
+    "tags": [
+      "android",
+      "ai",
+      "github",
+      "productivity",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

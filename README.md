@@ -11,6 +11,9 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Streaming](#streaming)
     - [Update Manager](#update-manager)
     - [Video Editor](#video-editor)
+- [Desktop](#desktop)
+  - [Apps](#apps)
+    - [Streaming](#streaming)
 - [Dev](#dev)
   - [Tools](#tools)
 
@@ -34,6 +37,15 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [OpenVideoEditor](https://f-droid.org/packages/io.github.devhyper.openvideoeditor) - Simple and powerful video editor for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video-editor](https://img.shields.io/badge/video--editor-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+## Desktop
+
+### Apps
+
+#### Streaming
+
+- [Stremio](https://www.stremio.com/downloads) - All your video content in one place.
+  ![streaming](https://img.shields.io/badge/streaming-brown?style=for-the-badge) ![movies](https://img.shields.io/badge/movies-brown?style=for-the-badge) ![series](https://img.shields.io/badge/series-brown?style=for-the-badge)
 
 ## Dev
 

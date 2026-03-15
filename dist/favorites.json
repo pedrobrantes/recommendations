@@ -71,5 +71,23 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Stremio",
+    "description": "All your video content in one place.",
+    "url": "https://www.stremio.com/downloads",
+    "categories": [
+      "Desktop",
+      "Apps",
+      "Streaming"
+    ],
+    "tags": [
+      "streaming",
+      "movies",
+      "series"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

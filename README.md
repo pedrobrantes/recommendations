@@ -22,6 +22,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Torrent](#torrent)
     - [Update Manager](#update-manager)
     - [Video Editor](#video-editor)
+    - [Xposed](#xposed)
 - [Desktop](#desktop)
   - [Apps](#apps)
     - [Streaming](#streaming)
@@ -113,6 +114,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [OpenVideoEditor](https://f-droid.org/packages/io.github.devhyper.openvideoeditor) - Simple and powerful video editor for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video-editor](https://img.shields.io/badge/video--editor-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Xposed
+
+- [MMRL](https://github.com/MMRLApp/MMRL) - Magisk Module Repo for LSPosed/Xposed modules.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![magisk](https://img.shields.io/badge/magisk-brown?style=for-the-badge) ![xposed](https://img.shields.io/badge/xposed-brown?style=for-the-badge) ![modules](https://img.shields.io/badge/modules-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 ## Desktop
 

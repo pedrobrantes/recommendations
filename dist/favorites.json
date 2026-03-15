@@ -393,5 +393,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "MMRL",
+    "description": "Magisk Module Repo for LSPosed/Xposed modules.",
+    "url": "https://github.com/MMRLApp/MMRL",
+    "categories": [
+      "Android",
+      "Apps",
+      "Xposed"
+    ],
+    "tags": [
+      "android",
+      "magisk",
+      "xposed",
+      "modules",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

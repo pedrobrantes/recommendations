@@ -629,5 +629,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Wormhole",
+    "description": "Securely share files and text between devices.",
+    "url": "https://github.com/iyox-studios/iyox-Wormhole",
+    "categories": [
+      "Android",
+      "Apps",
+      "File Share"
+    ],
+    "tags": [
+      "android",
+      "file-share",
+      "security",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

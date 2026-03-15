@@ -13,6 +13,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Books](#books)
     - [Dictionary](#dictionary)
     - [Email Client](#email-client)
+    - [File Share](#file-share)
     - [Finance](#finance)
     - [Image Editor](#image-editor)
     - [Maps](#maps)
@@ -74,6 +75,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [K-9 Mail](https://f-droid.org/packages/rs.ltt.android) - A full-featured open-source email client for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![email](https://img.shields.io/badge/email-brown?style=for-the-badge) ![client](https://img.shields.io/badge/client-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### File Share
+
+- [Wormhole](https://github.com/iyox-studios/iyox-Wormhole) - Securely share files and text between devices.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![file-share](https://img.shields.io/badge/file--share-brown?style=for-the-badge) ![security](https://img.shields.io/badge/security-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Finance
 

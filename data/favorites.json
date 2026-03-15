@@ -842,5 +842,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Aves",
+    "description": "A material-designed, privacy-friendly gallery app for Android.",
+    "url": "https://github.com/deckerst/aves",
+    "categories": [
+      "Android",
+      "Apps",
+      "Gallery"
+    ],
+    "tags": [
+      "android",
+      "gallery",
+      "privacy",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

@@ -8,6 +8,7 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Android](#android)
   - [Apps](#apps)
+    - [Streaming](#streaming)
     - [Update Manager](#update-manager)
     - [Video Editor](#video-editor)
 - [Dev](#dev)
@@ -18,6 +19,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 ## Android
 
 ### Apps
+
+#### Streaming
+
+- [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![youtube](https://img.shields.io/badge/youtube-brown?style=for-the-badge) ![streaming](https://img.shields.io/badge/streaming-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Update Manager
 

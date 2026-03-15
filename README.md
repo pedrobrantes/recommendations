@@ -10,6 +10,7 @@ This list is automatically managed and distributed using [myfav](https://github.
   - [Apps](#apps)
     - [Image Editor](#image-editor)
     - [Social](#social)
+    - [Store](#store)
     - [Streaming](#streaming)
     - [Update Manager](#update-manager)
     - [Video Editor](#video-editor)
@@ -36,6 +37,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![telegram](https://img.shields.io/badge/telegram-brown?style=for-the-badge) ![social](https://img.shields.io/badge/social-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Mastodon Android](https://github.com/mastodon/mastodon-android) - The official Mastodon Android client.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![mastodon](https://img.shields.io/badge/mastodon-brown?style=for-the-badge) ![social](https://img.shields.io/badge/social-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Store
+
+- [Aurora Store](https://www.auroraoss.com/AuroraStore/Release) - An open-source, unofficial FOSS client for Google Play Store.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![store](https://img.shields.io/badge/store-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Streaming
 

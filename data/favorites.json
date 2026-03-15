@@ -165,5 +165,23 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Aurora Store",
+    "description": "An open-source, unofficial FOSS client for Google Play Store.",
+    "url": "https://www.auroraoss.com/AuroraStore/Release",
+    "categories": [
+      "Android",
+      "Apps",
+      "Store"
+    ],
+    "tags": [
+      "android",
+      "store",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

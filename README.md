@@ -9,6 +9,7 @@ This list is automatically managed and distributed using [myfav](https://github.
 - [Android](#android)
   - [Apps](#apps)
     - [AI](#ai)
+    - [Audio](#audio)
     - [Books](#books)
     - [Finance](#finance)
     - [Image Editor](#image-editor)
@@ -37,6 +38,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [SummaryExpressive](https://github.com/kid1412621/SummaryExpressive) - An Android app for summarizing texts using AI.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![ai](https://img.shields.io/badge/ai-brown?style=for-the-badge) ![summary](https://img.shields.io/badge/summary-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Audio
+
+- [Voice](https://github.com/PaulWoitaschek/Voice) - An audiobook player for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![audiobook](https://img.shields.io/badge/audiobook-brown?style=for-the-badge) ![player](https://img.shields.io/badge/player-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Books
 

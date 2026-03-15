@@ -21,14 +21,14 @@ This list is automatically managed and distributed using [myfav](https://github.
 #### Update Manager
 
 - [Obtainium](https://github.com/ImranRQD/Obtainium) - Get app updates from sources
-  ![android](https://img.shields.io/badge/android-blue?style=flat-square) ![updates](https://img.shields.io/badge/updates-blue?style=flat-square) ![github:black](https://img.shields.io/badge/github:black-blue?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-blue?style=flat-square)
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![updates](https://img.shields.io/badge/updates-brown?style=for-the-badge) ![github](https://img.shields.io/badge/github-black?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 ## Dev
 
 ### Tools
 
 - [myfav](https://github.com/pedrobrantes/myfav) - A modular Rust CLI to manage recommendations
-  ![rust](https://img.shields.io/badge/rust-blue?style=flat-square) ![cli](https://img.shields.io/badge/cli-blue?style=flat-square) ![automation](https://img.shields.io/badge/automation-blue?style=flat-square)
+  ![rust](https://img.shields.io/badge/rust-brown?style=for-the-badge) ![cli](https://img.shields.io/badge/cli-brown?style=for-the-badge) ![automation](https://img.shields.io/badge/automation-brown?style=for-the-badge)
 
 
 <!-- END_FAVORITES -->

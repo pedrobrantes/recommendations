@@ -747,5 +747,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Linkora",
+    "description": "An open-source bookmark manager for Android.",
+    "url": "https://f-droid.org/packages/com.sakethh.linkora",
+    "categories": [
+      "Android",
+      "Apps",
+      "Utility"
+    ],
+    "tags": [
+      "android",
+      "bookmarks",
+      "utility",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

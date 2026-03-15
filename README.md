@@ -80,6 +80,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Wormhole](https://github.com/iyox-studios/iyox-Wormhole) - Securely share files and text between devices.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![file-share](https://img.shields.io/badge/file--share-brown?style=for-the-badge) ![security](https://img.shields.io/badge/security-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [LocalSend](https://github.com/localsend/localsend) - Share files and messages to nearby devices without internet.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![file-share](https://img.shields.io/badge/file--share-brown?style=for-the-badge) ![offline](https://img.shields.io/badge/offline-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Finance
 

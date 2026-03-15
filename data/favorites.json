@@ -648,5 +648,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "LocalSend",
+    "description": "Share files and messages to nearby devices without internet.",
+    "url": "https://github.com/localsend/localsend",
+    "categories": [
+      "Android",
+      "Apps",
+      "File Share"
+    ],
+    "tags": [
+      "android",
+      "file-share",
+      "offline",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

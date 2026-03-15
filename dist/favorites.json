@@ -805,5 +805,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "URLCheck",
+    "description": "Check URLs for redirects and other information.",
+    "url": "https://github.com/TrianguloY/URLCheck",
+    "categories": [
+      "Android",
+      "Apps",
+      "Utility"
+    ],
+    "tags": [
+      "android",
+      "url",
+      "utility",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

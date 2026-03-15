@@ -178,6 +178,8 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![bookmarks](https://img.shields.io/badge/bookmarks-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [LinkSheet Nightly](https://github.com/LinkSheet/nightly) - A custom share sheet replacement for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![share-sheet](https://img.shields.io/badge/share--sheet-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [URLCheck](https://github.com/TrianguloY/URLCheck) - Check URLs for redirects and other information.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![url](https://img.shields.io/badge/url-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Video Editor
 

@@ -22,6 +22,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Music Player](#music-player)
     - [Network](#network)
     - [Podcasts](#podcasts)
+    - [Productivity](#productivity)
     - [RSS](#rss)
     - [Social](#social)
     - [Store](#store)
@@ -136,6 +137,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![podcast](https://img.shields.io/badge/podcast-brown?style=for-the-badge) ![audio](https://img.shields.io/badge/audio-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [PodAura](https://github.com/SkyD666/PodAura) - Modern podcast player built with Jetpack Compose.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![podcast](https://img.shields.io/badge/podcast-brown?style=for-the-badge) ![material-design](https://img.shields.io/badge/material--design-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Productivity
+
+- [Goodtime](https://github.com/adrcotfas/goodtime) - A minimal and beautiful productivity timer for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![productivity](https://img.shields.io/badge/productivity-brown?style=for-the-badge) ![timer](https://img.shields.io/badge/timer-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### RSS
 

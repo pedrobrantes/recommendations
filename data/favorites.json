@@ -785,5 +785,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Tarnhelm",
+    "description": "An Android VPN/proxy client.",
+    "url": "https://github.com/lz233/Tarnhelm",
+    "categories": [
+      "Android",
+      "Apps",
+      "Network"
+    ],
+    "tags": [
+      "android",
+      "vpn",
+      "proxy",
+      "network",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

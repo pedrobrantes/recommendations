@@ -54,25 +54,6 @@
     "icon": null
   },
   {
-    "title": "LibreTube",
-    "description": "An alternative frontend for YouTube, for Android.",
-    "url": "https://github.com/libre-tube/LibreTube",
-    "categories": [
-      "Android",
-      "Apps",
-      "Streaming"
-    ],
-    "tags": [
-      "android",
-      "youtube",
-      "streaming",
-      "open-source"
-    ],
-    "deprecated": false,
-    "alternative": null,
-    "icon": null
-  },
-  {
     "title": "Stremio",
     "description": "All your video content in one place.",
     "url": "https://www.stremio.com/downloads",
@@ -505,6 +486,25 @@
       "android",
       "email",
       "client",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
+  },
+  {
+    "title": "LibreTube",
+    "description": "An alternative frontend for YouTube, for Android.",
+    "url": "https://github.com/libre-tube/LibreTube",
+    "categories": [
+      "Android",
+      "Apps",
+      "Streaming"
+    ],
+    "tags": [
+      "android",
+      "youtube",
+      "streaming",
       "open-source"
     ],
     "deprecated": false,

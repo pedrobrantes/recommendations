@@ -27,6 +27,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![youtube](https://img.shields.io/badge/youtube-brown?style=for-the-badge) ![streaming](https://img.shields.io/badge/streaming-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Xtra](https://github.com/crackededed/Xtra) - An alternative Twitch frontend for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![twitch](https://img.shields.io/badge/twitch-brown?style=for-the-badge) ![streaming](https://img.shields.io/badge/streaming-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Update Manager
 

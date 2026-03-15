@@ -17,6 +17,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Image Editor](#image-editor)
     - [Maps](#maps)
     - [Music Player](#music-player)
+    - [Network](#network)
     - [Podcasts](#podcasts)
     - [RSS](#rss)
     - [Social](#social)
@@ -95,6 +96,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [OuterTune](https://github.com/DD3Boh/OuterTune) - A material-designed music player for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![music](https://img.shields.io/badge/music-brown?style=for-the-badge) ![player](https://img.shields.io/badge/player-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Network
+
+- [Flutter Server Box](https://github.com/lollipopkit/flutter_server_box) - A lightweight server management tool built with Flutter.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![server](https://img.shields.io/badge/server-brown?style=for-the-badge) ![network](https://img.shields.io/badge/network-brown?style=for-the-badge) ![flutter](https://img.shields.io/badge/flutter-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Podcasts
 

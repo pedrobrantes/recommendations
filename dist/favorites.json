@@ -589,5 +589,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Flutter Server Box",
+    "description": "A lightweight server management tool built with Flutter.",
+    "url": "https://github.com/lollipopkit/flutter_server_box",
+    "categories": [
+      "Android",
+      "Apps",
+      "Network"
+    ],
+    "tags": [
+      "android",
+      "server",
+      "network",
+      "flutter",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

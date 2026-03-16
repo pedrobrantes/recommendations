@@ -208,6 +208,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Termux](https://f-droid.org/packages/com.termux) - A powerful terminal emulator and Linux environment for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![terminal](https://img.shields.io/badge/terminal-brown?style=for-the-badge) ![linux](https://img.shields.io/badge/linux-brown?style=for-the-badge) ![cli](https://img.shields.io/badge/cli-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Termux:Nix](https://f-droid.org/packages/com.termux.nix) - Nix package manager for Termux.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![terminal](https://img.shields.io/badge/terminal-brown?style=for-the-badge) ![nix](https://img.shields.io/badge/nix-brown?style=for-the-badge) ![package-manager](https://img.shields.io/badge/package--manager-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Text Editor
 

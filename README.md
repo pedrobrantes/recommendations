@@ -93,6 +93,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Redomi](https://github.com/acszo/Redomi) - A simple document scanner and PDF reader for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![document](https://img.shields.io/badge/document-brown?style=for-the-badge) ![scanner](https://img.shields.io/badge/scanner-brown?style=for-the-badge) ![pdf](https://img.shields.io/badge/pdf-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - An open-source document scanner for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![document](https://img.shields.io/badge/document-brown?style=for-the-badge) ![scanner](https://img.shields.io/badge/scanner-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Email Client
 

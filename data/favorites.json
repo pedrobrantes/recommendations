@@ -1133,5 +1133,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "OSS-DocumentScanner",
+    "description": "An open-source document scanner for Android.",
+    "url": "https://github.com/Akylas/OSS-DocumentScanner",
+    "categories": [
+      "Android",
+      "Apps",
+      "Document"
+    ],
+    "tags": [
+      "android",
+      "document",
+      "scanner",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

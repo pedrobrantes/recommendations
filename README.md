@@ -18,6 +18,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [File Share](#file-share)
     - [Finance](#finance)
     - [Gallery](#gallery)
+    - [Health](#health)
     - [Image Editor](#image-editor)
     - [Maps](#maps)
     - [Music Player](#music-player)
@@ -113,6 +114,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Aves](https://github.com/deckerst/aves) - A material-designed, privacy-friendly gallery app for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![gallery](https://img.shields.io/badge/gallery-brown?style=for-the-badge) ![privacy](https://img.shields.io/badge/privacy-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Health
+
+- [FoodYou](https://f-droid.org/packages/com.maksimowiczm.foodyou) - A simple and intuitive nutrition tracking app.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![nutrition](https://img.shields.io/badge/nutrition-brown?style=for-the-badge) ![health](https://img.shields.io/badge/health-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Image Editor
 

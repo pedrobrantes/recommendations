@@ -996,5 +996,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Shizuku",
+    "description": "Run shell commands with ADB privileges from normal apps on Android.",
+    "url": "https://github.com/RikkaApps/Shizuku",
+    "categories": [
+      "Android",
+      "Apps",
+      "Adb"
+    ],
+    "tags": [
+      "android",
+      "adb",
+      "privileges",
+      "developer",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

@@ -35,6 +35,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Torrent](#torrent)
     - [Update Manager](#update-manager)
     - [Utility](#utility)
+    - [Video Downloader](#video-downloader)
     - [Video Editor](#video-editor)
     - [Video Player](#video-player)
     - [Weather](#weather)
@@ -223,6 +224,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![app-manager](https://img.shields.io/badge/app--manager-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [birday](https://github.com/m-i-n-a-r/birday) - A simple birthday reminder app for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![birthday](https://img.shields.io/badge/birthday-brown?style=for-the-badge) ![reminder](https://img.shields.io/badge/reminder-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Video Downloader
+
+- [Seal](https://github.com/JunkFood02/Seal) - A beautiful and feature-rich video downloader for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video-downloader](https://img.shields.io/badge/video--downloader-brown?style=for-the-badge) ![youtube](https://img.shields.io/badge/youtube-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Video Editor
 

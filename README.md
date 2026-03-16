@@ -12,6 +12,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Adb](#adb)
     - [Audio](#audio)
     - [Books](#books)
+    - [Cook](#cook)
     - [Dictionary](#dictionary)
     - [Document](#document)
     - [Email Client](#email-client)
@@ -83,6 +84,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![books](https://img.shields.io/badge/books-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Readest](https://github.com/readest/readest) - A beautiful book tracker for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![books](https://img.shields.io/badge/books-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge) ![material-design](https://img.shields.io/badge/material--design-brown?style=for-the-badge)
+
+#### Cook
+
+- [KitchenOwl](https://github.com/TomBursch/kitchenowl) - A self-hosted grocery list, recipe management, and meal planner.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![recipes](https://img.shields.io/badge/recipes-brown?style=for-the-badge) ![grocery](https://img.shields.io/badge/grocery-brown?style=for-the-badge) ![meal-planner](https://img.shields.io/badge/meal--planner-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Dictionary
 

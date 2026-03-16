@@ -1152,5 +1152,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "KitchenOwl",
+    "description": "A self-hosted grocery list, recipe management, and meal planner.",
+    "url": "https://github.com/TomBursch/kitchenowl",
+    "categories": [
+      "Android",
+      "Apps",
+      "Cook"
+    ],
+    "tags": [
+      "android",
+      "recipes",
+      "grocery",
+      "meal-planner",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

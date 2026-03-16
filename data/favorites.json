@@ -1210,5 +1210,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Free Dictionary App",
+    "description": "A comprehensive offline dictionary app for Android.",
+    "url": "https://github.com/yamin8000/freeDictionaryApp",
+    "categories": [
+      "Android",
+      "Apps",
+      "Dictionary"
+    ],
+    "tags": [
+      "android",
+      "dictionary",
+      "offline",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

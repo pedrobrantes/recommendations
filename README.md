@@ -102,6 +102,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Ciyue](https://github.com/mumu-lhl/Ciyue) - A modern Chinese dictionary for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![dictionary](https://img.shields.io/badge/dictionary-brown?style=for-the-badge) ![chinese](https://img.shields.io/badge/chinese-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Free Dictionary App](https://github.com/yamin8000/freeDictionaryApp) - A comprehensive offline dictionary app for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![dictionary](https://img.shields.io/badge/dictionary-brown?style=for-the-badge) ![offline](https://img.shields.io/badge/offline-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Document
 

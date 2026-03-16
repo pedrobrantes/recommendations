@@ -1093,5 +1093,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Termux",
+    "description": "A powerful terminal emulator and Linux environment for Android.",
+    "url": "https://f-droid.org/packages/com.termux",
+    "categories": [
+      "Android",
+      "Apps",
+      "Terminal"
+    ],
+    "tags": [
+      "android",
+      "terminal",
+      "linux",
+      "cli",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

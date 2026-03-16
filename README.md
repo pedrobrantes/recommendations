@@ -32,6 +32,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Store](#store)
     - [Streaming](#streaming)
     - [Study](#study)
+    - [Terminal](#terminal)
     - [Text Editor](#text-editor)
     - [Torrent](#torrent)
     - [Update Manager](#update-manager)
@@ -202,6 +203,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![study](https://img.shields.io/badge/study-brown?style=for-the-badge) ![flashcards](https://img.shields.io/badge/flashcards-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Atomic Periodic Table](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) - A modern periodic table of elements for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![study](https://img.shields.io/badge/study-brown?style=for-the-badge) ![science](https://img.shields.io/badge/science-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Terminal
+
+- [Termux](https://f-droid.org/packages/com.termux) - A powerful terminal emulator and Linux environment for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![terminal](https://img.shields.io/badge/terminal-brown?style=for-the-badge) ![linux](https://img.shields.io/badge/linux-brown?style=for-the-badge) ![cli](https://img.shields.io/badge/cli-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Text Editor
 

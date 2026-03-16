@@ -1191,5 +1191,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Lichess",
+    "description": "The official mobile client for the Lichess chess server.",
+    "url": "https://github.com/lichess-org/mobile",
+    "categories": [
+      "Android",
+      "Apps",
+      "Chess"
+    ],
+    "tags": [
+      "android",
+      "chess",
+      "game",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

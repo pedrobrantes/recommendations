@@ -12,6 +12,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Adb](#adb)
     - [Audio](#audio)
     - [Books](#books)
+    - [Chess](#chess)
     - [Cook](#cook)
     - [Dictionary](#dictionary)
     - [Document](#document)
@@ -84,6 +85,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![books](https://img.shields.io/badge/books-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Readest](https://github.com/readest/readest) - A beautiful book tracker for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![books](https://img.shields.io/badge/books-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge) ![material-design](https://img.shields.io/badge/material--design-brown?style=for-the-badge)
+
+#### Chess
+
+- [Lichess](https://github.com/lichess-org/mobile) - The official mobile client for the Lichess chess server.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![chess](https://img.shields.io/badge/chess-brown?style=for-the-badge) ![game](https://img.shields.io/badge/game-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Cook
 

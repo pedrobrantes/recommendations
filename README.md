@@ -153,6 +153,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Bitwarden](https://github.com/bitwarden/android) - An open-source password manager for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![password-manager](https://img.shields.io/badge/password--manager-brown?style=for-the-badge) ![security](https://img.shields.io/badge/security-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Keyguard](https://github.com/AChep/keyguard-app) - A secure password manager using AES encryption.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![password-manager](https://img.shields.io/badge/password--manager-brown?style=for-the-badge) ![security](https://img.shields.io/badge/security-brown?style=for-the-badge) ![encryption](https://img.shields.io/badge/encryption-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Social
 

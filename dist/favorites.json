@@ -1073,5 +1073,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "wger",
+    "description": "A free and open-source fitness tracker.",
+    "url": "https://github.com/wger-project/flutter",
+    "categories": [
+      "Android",
+      "Apps",
+      "Health"
+    ],
+    "tags": [
+      "android",
+      "fitness",
+      "health",
+      "tracker",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

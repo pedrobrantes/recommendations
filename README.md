@@ -119,6 +119,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [FoodYou](https://f-droid.org/packages/com.maksimowiczm.foodyou) - A simple and intuitive nutrition tracking app.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![nutrition](https://img.shields.io/badge/nutrition-brown?style=for-the-badge) ![health](https://img.shields.io/badge/health-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [wger](https://github.com/wger-project/flutter) - A free and open-source fitness tracker.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![fitness](https://img.shields.io/badge/fitness-brown?style=for-the-badge) ![health](https://img.shields.io/badge/health-brown?style=for-the-badge) ![tracker](https://img.shields.io/badge/tracker-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Image Editor
 

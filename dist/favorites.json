@@ -956,5 +956,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Bitwarden",
+    "description": "An open-source password manager for Android.",
+    "url": "https://github.com/bitwarden/android",
+    "categories": [
+      "Android",
+      "Apps",
+      "Security"
+    ],
+    "tags": [
+      "android",
+      "password-manager",
+      "security",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

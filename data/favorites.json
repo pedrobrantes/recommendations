@@ -939,25 +939,6 @@
     "icon": null
   },
   {
-    "title": "Shizuku",
-    "description": "Run shell commands with privileges from normal apps on Android.",
-    "url": "https://github.com/RikkaApps/Shizuku",
-    "categories": [
-      "Android",
-      "Apps",
-      "Utility"
-    ],
-    "tags": [
-      "android",
-      "privileges",
-      "utility",
-      "open-source"
-    ],
-    "deprecated": false,
-    "alternative": null,
-    "icon": null
-  },
-  {
     "title": "Bitwarden",
     "description": "An open-source password manager for Android.",
     "url": "https://github.com/bitwarden/android",

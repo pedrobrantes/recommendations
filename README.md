@@ -13,6 +13,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Audio](#audio)
     - [Books](#books)
     - [Chess](#chess)
+    - [Comics](#comics)
     - [Cook](#cook)
     - [Dictionary](#dictionary)
     - [Document](#document)
@@ -90,6 +91,11 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Lichess](https://github.com/lichess-org/mobile) - The official mobile client for the Lichess chess server.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![chess](https://img.shields.io/badge/chess-brown?style=for-the-badge) ![game](https://img.shields.io/badge/game-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Comics
+
+- [Mihon](https://github.com/mihonapp/mihon) - A free and open source manga reader for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![manga](https://img.shields.io/badge/manga-brown?style=for-the-badge) ![comics](https://img.shields.io/badge/comics-brown?style=for-the-badge) ![reader](https://img.shields.io/badge/reader-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Cook
 

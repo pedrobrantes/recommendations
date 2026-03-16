@@ -1248,5 +1248,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Mihon",
+    "description": "A free and open source manga reader for Android.",
+    "url": "https://github.com/mihonapp/mihon",
+    "categories": [
+      "Android",
+      "Apps",
+      "Comics"
+    ],
+    "tags": [
+      "android",
+      "manga",
+      "comics",
+      "reader",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

@@ -1035,5 +1035,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "ytdlnis",
+    "description": "A modern and minimalist YouTube Downloader for Android.",
+    "url": "https://github.com/deniscerri/ytdlnis",
+    "categories": [
+      "Android",
+      "Apps",
+      "Video Downloader"
+    ],
+    "tags": [
+      "android",
+      "youtube",
+      "video-downloader",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

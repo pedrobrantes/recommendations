@@ -229,6 +229,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [Seal](https://github.com/JunkFood02/Seal) - A beautiful and feature-rich video downloader for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![video-downloader](https://img.shields.io/badge/video--downloader-brown?style=for-the-badge) ![youtube](https://img.shields.io/badge/youtube-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [ytdlnis](https://github.com/deniscerri/ytdlnis) - A modern and minimalist YouTube Downloader for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![youtube](https://img.shields.io/badge/youtube-brown?style=for-the-badge) ![video-downloader](https://img.shields.io/badge/video--downloader-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Video Editor
 

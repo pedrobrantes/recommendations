@@ -258,6 +258,8 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![app-manager](https://img.shields.io/badge/app--manager-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [birday](https://github.com/m-i-n-a-r/birday) - A simple birthday reminder app for Android.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![birthday](https://img.shields.io/badge/birthday-brown?style=for-the-badge) ![reminder](https://img.shields.io/badge/reminder-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [TranslateYou](https://github.com/you-apps/TranslateYou) - An open-source translation app for Android.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![translation](https://img.shields.io/badge/translation-brown?style=for-the-badge) ![utility](https://img.shields.io/badge/utility-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Video Downloader
 

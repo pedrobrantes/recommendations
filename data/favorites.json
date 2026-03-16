@@ -1172,5 +1172,24 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "Grocy Android",
+    "description": "Android client for Grocy, a self-hosted grocery management solution.",
+    "url": "https://github.com/patzly/grocy-android",
+    "categories": [
+      "Android",
+      "Apps",
+      "Cook"
+    ],
+    "tags": [
+      "android",
+      "grocy",
+      "grocery",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]

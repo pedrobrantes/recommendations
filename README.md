@@ -89,6 +89,8 @@ This list is automatically managed and distributed using [myfav](https://github.
 
 - [KitchenOwl](https://github.com/TomBursch/kitchenowl) - A self-hosted grocery list, recipe management, and meal planner.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![recipes](https://img.shields.io/badge/recipes-brown?style=for-the-badge) ![grocery](https://img.shields.io/badge/grocery-brown?style=for-the-badge) ![meal-planner](https://img.shields.io/badge/meal--planner-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+- [Grocy Android](https://github.com/patzly/grocy-android) - Android client for Grocy, a self-hosted grocery management solution.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![grocy](https://img.shields.io/badge/grocy-brown?style=for-the-badge) ![grocery](https://img.shields.io/badge/grocery-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Dictionary
 

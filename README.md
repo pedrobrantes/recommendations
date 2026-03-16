@@ -25,6 +25,7 @@ This list is automatically managed and distributed using [myfav](https://github.
     - [Productivity](#productivity)
     - [RSS](#rss)
     - [Security](#security)
+    - [Series & Movies](#series--movies)
     - [Social](#social)
     - [Store](#store)
     - [Streaming](#streaming)
@@ -155,6 +156,11 @@ This list is automatically managed and distributed using [myfav](https://github.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![password-manager](https://img.shields.io/badge/password--manager-brown?style=for-the-badge) ![security](https://img.shields.io/badge/security-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 - [Keyguard](https://github.com/AChep/keyguard-app) - A secure password manager using AES encryption.
   ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![password-manager](https://img.shields.io/badge/password--manager-brown?style=for-the-badge) ![security](https://img.shields.io/badge/security-brown?style=for-the-badge) ![encryption](https://img.shields.io/badge/encryption-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
+
+#### Series & Movies
+
+- [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies.
+  ![android](https://img.shields.io/badge/android-brown?style=for-the-badge) ![tv-shows](https://img.shields.io/badge/tv--shows-brown?style=for-the-badge) ![movies](https://img.shields.io/badge/movies-brown?style=for-the-badge) ![tracking](https://img.shields.io/badge/tracking-brown?style=for-the-badge) ![open-source](https://img.shields.io/badge/open--source-brown?style=for-the-badge)
 
 #### Social
 

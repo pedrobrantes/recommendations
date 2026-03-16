@@ -995,5 +995,25 @@
     "deprecated": false,
     "alternative": null,
     "icon": null
+  },
+  {
+    "title": "SeriesGuide",
+    "description": "Track your favorite TV shows and movies.",
+    "url": "https://github.com/UweTrottmann/SeriesGuide",
+    "categories": [
+      "Android",
+      "Apps",
+      "Series & Movies"
+    ],
+    "tags": [
+      "android",
+      "tv-shows",
+      "movies",
+      "tracking",
+      "open-source"
+    ],
+    "deprecated": false,
+    "alternative": null,
+    "icon": null
   }
 ]
